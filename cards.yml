@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to Bank cards related local APIs"
+  message: "Welcome to Bank cards related local (docker: webhook) APIs"
   contactDetails:
     name: "John Doe - Developer (cards)"
     email: "john@bank.cards.com"

@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to Bank loans related local APIs"
+  message: "Welcome to Bank loans related local (docker: webhook) APIs"
   contactDetails:
     name: "John Doe - Developer (loans)"
     email: "john@bank.loans.com"
